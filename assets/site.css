@@ -22,6 +22,7 @@ ul{padding-inline-start:22px}
 a{color:var(--link)}
 :focus-visible{outline:3px solid var(--lantern);outline-offset:2px;border-radius:4px}
 section[dir=rtl]{line-height:1.85}
+section[dir=rtl] h1,section[dir=rtl] h2{font-family:"Readex Pro",sans-serif;font-weight:600;line-height:1.5}
 section+section{margin-top:36px;padding-top:28px;border-top:2px solid var(--edge)}
 .langswitch{display:flex;gap:10px;margin:0 0 14px}
 .langswitch a{padding:6px 16px;border-radius:999px;background:var(--sunk);color:var(--ink);font-weight:500;text-decoration:none;box-shadow:0 3px 0 var(--edge)}
