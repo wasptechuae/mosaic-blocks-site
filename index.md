@@ -5,7 +5,7 @@ title: Home
 <div class="hero" markdown="1">
 <img src="{{ '/assets/lockup-en.svg' | relative_url }}" alt="Mosaic Blocks" width="300" height="231">
 
-A calm block puzzle set in a lantern-lit courtyard. Place the pieces, complete rows and columns, and clear the board of glazed tiles. *فسيفساء: لعبة ألغاز بالعربية والإنجليزية.*
+A calm block puzzle set in a lantern-lit courtyard. Place the pieces, complete rows and columns, and clear the board of glazed tiles. <span lang="ar" dir="rtl">فسيفساء: لعبة ألغاز بالعربية والإنجليزية.</span>
 
 <div class="cta">
 <a class="btn" href="{{ '/privacy/' | relative_url }}">Privacy policy</a>
