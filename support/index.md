@@ -5,7 +5,9 @@ description: Help and contact for the Mosaic Blocks mobile game.
 ---
 # Support
 
-Need help, found a bug, or have an idea? Email [{{ site.contact_email }}](mailto:{{ site.contact_email }}). Please include your phone model and its Android or iOS version. English or Arabic are both welcome. تفضّل بالكتابة بالعربية أو الإنجليزية.
+Need help, found a bug, or have an idea? Email [{{ site.contact_email }}](mailto:{{ site.contact_email }}). Please include your phone model and its Android or iOS version. English or Arabic are both welcome.
+
+<p lang="ar" dir="rtl">تفضّل بالكتابة بالعربية أو الإنجليزية.</p>
 
 ## FAQ
 

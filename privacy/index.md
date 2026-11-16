@@ -8,7 +8,7 @@ description: Privacy policy for the Mosaic Blocks mobile game, in English and Ar
 <section id="en" lang="en" dir="ltr" markdown="1">
 
 # Mosaic Blocks privacy policy
-Last updated: {{ site.effective_date }}
+Last updated: {{ site.effective_date_en }}
 
 Mosaic Blocks is a puzzle game for phones. This page says what the app does with information. It is short because the app does very little.
 
@@ -45,7 +45,7 @@ Questions: [{{ site.contact_email }}](mailto:{{ site.contact_email }})
 <section id="ar" lang="ar" dir="rtl" markdown="1">
 
 # سياسة الخصوصية في فسيفساء
-آخر تحديث: {{ site.effective_date }}
+آخر تحديث: {{ site.effective_date_ar }}
 
 فسيفساء لعبة ألغاز للهواتف. تشرح هذه الصفحة ما يفعله التطبيق بالمعلومات، وهي قصيرة لأن التطبيق يفعل القليل جدًا.
 
