@@ -38,3 +38,12 @@ summary{cursor:pointer;font-weight:600;padding:12px 0}
 footer{text-align:center;color:var(--text-soft);padding:8px 16px 36px;font-size:15px;overflow-wrap:anywhere}
 footer a{color:var(--gold)}
 @media (prefers-reduced-motion:reduce){html{scroll-behavior:auto}.btn:active{transform:none}}
+
+.maker{display:inline-flex;align-items:center;gap:6px;padding:6px 14px 6px 6px;border-radius:999px;background:rgb(255 255 255 / .05);box-shadow:inset 0 0 0 1px rgb(201 164 90 / .35);color:var(--text);text-decoration:none}
+.maker:hover,.maker:focus-visible{box-shadow:inset 0 0 0 1px var(--rim)}
+.maker img{display:block;margin:-4px 0 -4px -2px}
+.maker__text{display:grid;gap:0;text-align:start;line-height:1.35}
+.maker__en,.maker__ar{font-size:14px;letter-spacing:.02em}
+.maker__en bdi,.maker__ar bdi{font-weight:700;letter-spacing:.05em;text-transform:uppercase;color:#fff}
+.maker__ar{text-align:start}
+footer .contact{margin:14px 0 0}

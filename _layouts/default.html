@@ -16,6 +16,9 @@
 <main><article class="card">
 {{ content }}
 </article></main>
-<footer>Contact: <a href="mailto:{{ site.contact_email }}">{{ site.contact_email }}</a></footer>
+<footer>
+<a class="maker" href="https://wasp.ae" rel="noopener"><img src="{{ '/assets/wasp-icon.svg' | relative_url }}" alt="" width="56" height="56"><span class="maker__text"><span class="maker__en" lang="en" dir="ltr">by <bdi>WASP Tech Solution</bdi></span><span class="maker__ar" lang="ar" dir="rtl">من <bdi dir="ltr">WASP Tech Solution</bdi></span></span></a>
+<p class="contact">Contact: <a href="mailto:{{ site.contact_email }}">{{ site.contact_email }}</a></p>
+</footer>
 </body>
 </html>
